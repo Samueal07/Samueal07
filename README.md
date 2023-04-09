@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samueal07" alt="samueal07" /></a> </p>
 
-- 🔭 I’m currently working on **EatMax**
+- 🔭 I’m currently working on **CodeWriting Website**
 
-- 🌱 I’m currently learning **React Native, Next js ,Mongo Db**
+- 🌱 I’m currently learning to Implement **MERN STACK**
 
-- 👯 I’m looking to collaborate on **Web Applications ,UI-UX Designing**
+- 👯 I’m looking to collaborate on **Web Applications ,UI-UX Designing,Social Media Marketing**
 
 - 🤝 I’m looking for help with **A Database Management Software(Tentative)**
 
