@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samueal Dsouza</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">MERN Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samueal07&label=Profile%20views&color=0e75b6&style=flat" alt="samueal07" /> </p>
 
